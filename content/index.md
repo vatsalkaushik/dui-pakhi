@@ -7,18 +7,16 @@ Times have changed. Finding the right tailor is now more stressful than finding 
 
 Dui Pakhi gives you access to expert tailors at your doorstep.
 
-Currently servicing in *Delhi NCR only*. Fill this form if you'd like to be alerted when we open in your city!
-
-For orders and queries, click here or contact us via WhatsApp!
+Currently servicing in *Delhi NCR only*. For orders and queries, [click here](https://tally.so/r/nG04dL) or contact us [on WhatsApp](https://wa.me/message/KRXRGVBBOVZAI1)!
 
 ## 🏷️ Price list
 
-| Article                                              | Price |
+| Article                                              | Price* |
 | ---------------------------------------------------- | ----- |
 | **Blouse**                                           |       |
 | Blouse without lining                                | ₹550  |
 | Blouse with lining                                   | ₹750  |
-| Advanced blouse                                      | ₹     |
+| Advanced blouse                                      | ₹900  |
 | **Kurta**                                            |       |
 | Kurta without lining                                 | ₹500  |
 | Kurta with lining                                    | ₹700  |
@@ -30,6 +28,8 @@ For orders and queries, click here or contact us via WhatsApp!
 | Kurta + Palazzo/Pant ( top & bottom with lining)     | ₹2000 |
 | Kurta + Sharara (12 kali) (top & botton w/o lining)  | ₹2000 |
 | Kurta + Sharara (12 kali) (top & botton with lining) | ₹2500 |
+
+*Payment at the time of delivery incur an additional charge of ₹75 per order.
 
 ---
 
