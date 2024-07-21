@@ -229,6 +229,10 @@ a {
       margin-right: 0;
     }
   }
+
+  & .center {
+    margin-bottom: $topSpacing;
+  }
 }
 
 .footnotes {
