@@ -54,6 +54,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    ogDescription: "Dui Pakhi gives you access to expert tailors at your doorstep",
   },
   plugins: {
     transformers: [
