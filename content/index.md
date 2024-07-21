@@ -36,5 +36,5 @@ For orders and queries, click here or contact us via WhatsApp!
 You've got the style, we've got the stitch. Let's make it fit.
 
 Dui Pakhi,<br>
-by Manu Tyagi and Vatsal Kaushik<br>
+by Manu and Vatsal<br>
 manu@duipakhi.com 
