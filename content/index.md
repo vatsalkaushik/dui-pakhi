@@ -1,3 +1,6 @@
+---
+title: Dui Pakhi
+---
 ![[Landscape Blue.png]]
 
 Times have changed. Finding the right tailor is now more stressful than finding the right fabric.
