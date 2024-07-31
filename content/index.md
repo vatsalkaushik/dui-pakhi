@@ -7,29 +7,31 @@ Times have changed. Finding the right tailor is now more stressful than finding 
 
 Dui Pakhi gives you access to expert tailors at your doorstep.
 
-Currently servicing in *Delhi NCR only*. For orders and queries, [click here](https://tally.so/r/nG04dL) or contact us [on WhatsApp](https://wa.me/message/KRXRGVBBOVZAI1)!
+Currently servicing in *Delhi NCR only*. [Click here](https://tally.so/r/nG04dL) to place an order, or contact us [on WhatsApp](https://wa.me/message/KRXRGVBBOVZAI1) for any questions!
 
 ## 🏷️ Price list
 
-| Article                                              | Price* |
-| ---------------------------------------------------- | ----- |
-| **Blouse**                                           |       |
-| Blouse without lining                                | ₹550  |
-| Blouse with lining                                   | ₹750  |
-| Advanced blouse                                      | ₹900  |
-| **Kurta**                                            |       |
-| Kurta without lining                                 | ₹500  |
-| Kurta with lining                                    | ₹700  |
-| **Kurta set**                                        |       |
-| Kurta + Pajami/Salwar (w/o lining)                   | ₹700  |
-| Kurta + Pajami/Salwar (top w lining)                 | ₹1000 |
-| Kurta + Palazzo/Pant (w/o lining)                    | ₹1200 |
-| Kurta + Palazzo/Pant (top or bottom with lining)     | ₹1550 |
-| Kurta + Palazzo/Pant ( top & bottom with lining)     | ₹2000 |
-| Kurta + Sharara (12 kali) (top & botton w/o lining)  | ₹2000 |
-| Kurta + Sharara (12 kali) (top & botton with lining) | ₹2500 |
+| Article                                    | Price |
+| ------------------------------------------ | ----- |
+| **Blouse**                                 |       |
+| Blouse without lining                      | ₹550  |
+| Blouse with lining                         | ₹800  |
+| **Kurta**                                  |       |
+| Kurta without lining                       | ₹700  |
+| Kurta with lining                          | ₹1200 |
+| **Kurta set**                              |       |
+| Kurta + Pajami/Salwar (without lining)     | ₹900  |
+| Kurta + Pajami/Salwar (half lining)        | ₹1400 |
+| Kurta + Palazzo/Pant (without lining)      | ₹1100 |
+| Kurta + Palazzo/Pant (half lining)         | ₹1400 |
+| Kurta + Palazzo/Pant ( full lining)        | ₹1800 |
+| Kurta + Sharara – 12 kali (without lining) | ₹2000 |
+| Kurta + Sharara – 12 kali (full lining)    | ₹2800 |
 
-*Payment at the time of delivery incur an additional charge of ₹75 per order.
+Add-ons or customizations will include additional charges. These include:
+- Piping: ₹150
+- Pocket: ₹150
+- Side zipper/back opening with princess cut: ₹250
 
 ---
 
