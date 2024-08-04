@@ -16,6 +16,7 @@ Currently servicing in *Delhi NCR only*. [Click here](https://tally.so/r/nG04dL)
 | **Blouse**                                 |       |
 | Blouse without lining                      | ₹550  |
 | Blouse with lining                         | ₹800  |
+| Padded blouse                              | ₹1600 |
 | **Kurta**                                  |       |
 | Kurta without lining                       | ₹700  |
 | Kurta with lining                          | ₹1200 |
@@ -24,7 +25,7 @@ Currently servicing in *Delhi NCR only*. [Click here](https://tally.so/r/nG04dL)
 | Kurta + Pajami/Salwar (half lining)        | ₹1400 |
 | Kurta + Palazzo/Pant (without lining)      | ₹1100 |
 | Kurta + Palazzo/Pant (half lining)         | ₹1400 |
-| Kurta + Palazzo/Pant ( full lining)        | ₹1800 |
+| Kurta + Palazzo/Pant (full lining)         | ₹1800 |
 | Kurta + Sharara – 12 kali (without lining) | ₹2000 |
 | Kurta + Sharara – 12 kali (full lining)    | ₹2800 |
 
